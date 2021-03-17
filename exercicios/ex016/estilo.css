@@ -1,0 +1,39 @@
+body {
+    background: rgb(168, 206, 255);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    text-align: left;
+    background: white;
+    border-radius: 5px;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, .5) 5px 5px 10px;
+}
+
+div {
+    text-align: left;
+}
+
+input {
+    margin: 10px;
+}
+
+input#butao {
+    margin: 0px;
+    margin-top: 10px;
+    width: 75px;
+    height: 25px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
