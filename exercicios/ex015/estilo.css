@@ -18,6 +18,11 @@ section {
     box-shadow: rgba(0, 0, 0, .5) 5px 5px 10px;
 }
 
+img {
+    width: 300px;
+
+}
+
 footer {
     color: white;
     text-align: center;
