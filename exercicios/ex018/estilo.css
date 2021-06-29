@@ -1,0 +1,33 @@
+body {
+    background: rgb(168, 206, 255);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    text-align: left;
+    box-shadow: rgba(0, 0, 0, .5) 5px 5px 10px;
+}
+
+#fim {
+    padding-top: 10px;
+}
+
+#res {
+    width: 135px;
+    overflow-y: hidden;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
